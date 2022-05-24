@@ -1,0 +1,18 @@
+pandora
+netflix
+spotify
+youtube
+hulu
+"samsung music"
+soundhound
+playstation
+"amazon music"
+fandango
+"^google play."
+shazam
+manga
+comic
+webtoon
+soundhound
+flixster
+anime

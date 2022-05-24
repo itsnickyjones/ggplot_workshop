@@ -1,0 +1,13 @@
+"system ui"
+settings
+system
+"android system"
+device
+clock
+"^google play services$"
+"^google play store$"
+calculator
+"^photos"
+"software update"
+"package installer"
+file.
